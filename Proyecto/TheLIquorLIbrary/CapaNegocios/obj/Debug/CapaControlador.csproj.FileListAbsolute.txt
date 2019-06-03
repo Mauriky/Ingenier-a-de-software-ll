@@ -1,0 +1,8 @@
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaNegocios\obj\Debug\CapaControlador.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaNegocios\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaNegocios\obj\Debug\CapaNegocios.pdb

@@ -1,0 +1,17 @@
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLIquorLIbrary\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaPresentacion\obj\Debug\CapaPresentacion.VentanaRegistrarLicor.resources
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaPresentacion\obj\Debug\CapaPresentacion.VentanaRegistroCliente.resources
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaPresentacion\obj\Debug\CapaPresentacion.VentanaRegistroVenta.resources
+C:\Users\Mauricio\Documents\Cucei\7.- Septimo Semestre\Ingeniería de software ll\Proyecto\TheLiquorLibrary\CapaPresentacion\obj\Debug\CapaPresentacion.VentanaPrincipal.resources
